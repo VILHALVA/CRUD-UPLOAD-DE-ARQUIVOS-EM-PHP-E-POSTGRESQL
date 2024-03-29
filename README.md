@@ -1,12 +1,12 @@
 # CRUD UPLOAD DE ARQUIVOS EM PHP E POSTGRESQL
 👨‍🏫CRUD DE MULTIMIDIAS EM HTML, CSS, PHP E POSTGRESQL.
 
-<img src="./IMAGENS/FOTO_1.png" align="center" width="500"> <br> <br> 
-<img src="./IMAGENS/FOTO_2.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_3.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_4.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_5.png" align="center" width="500"> <br> <br>
-<img src="./IMAGENS/FOTO_6.png" align="center" width="500"> <br> 
+<img src="./IMAGENS/FOTO_01.png" align="center" width="500"> <br> <br> 
+<img src="./IMAGENS/FOTO_02.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_03.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_04.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_05.png" align="center" width="500"> <br> <br>
+<img src="./IMAGENS/FOTO_06.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 O aplicativo CRUD de upload de arquivos em PHP e POSTGRESQL é uma ferramenta simples, mas poderosa, que permite aos usuários gerenciar facilmente o armazenamento e a manipulação de arquivos em um sistema web. Com este aplicativo, os usuários podem realizar uma variedade de tarefas relacionadas a arquivos, incluindo upload, visualização, edição e exclusão, tudo através de uma interface amigável e intuitiva:
