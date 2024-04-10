@@ -41,7 +41,7 @@ Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fa
 
 ## EXECUTANDO O PROJETO:
 1. **Importar o `DATABASE.sql`**
-   - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o arquivo `DATABASE.sql`. Se não estiver familiarizado com o processo de importação, [confira este curso](https://github.com/VILHALVA/CURSO-DE-POSTGRESQL) para orientações detalhadas. 
+   - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o arquivo `DATABASE.sql`.
 
 2. **Configuração do PHP:**
    - Abra o arquivo `config.php` e ajuste as configurações do banco de dados:
