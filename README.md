@@ -41,10 +41,10 @@ Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fa
 
 ## EXECUTANDO O PROJETO:
 1. **Importar o `DATABASE.sql`**
-   - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o arquivo `DATABASE.sql`.
+   - Como você já baixou esse projeto com uma foto de modelo dentro de `CODIGO/uploads/PHP.png`, é de suma importância que você import o arquivo `DATABASE.sql`. 
 
 2. **Configuração do PHP:**
-   - Abra o arquivo `config.php` e ajuste as configurações do banco de dados:
+   - Abra o arquivo `./CODIGO/config.php` e ajuste as configurações do banco de dados:
 
      ```php
      $host = "localhost";
@@ -54,9 +54,16 @@ Esses recursos combinados proporcionam aos usuários uma maneira eficiente de fa
      $password = "sua_senha";
      ```
 
-3. **Executando o Aplicativo:**
+3. **Executando o Aplicativo com Apache:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.php`.
+   - Acesse o formulário no navegador visitando [http://localhost/CODIGO/index.php](http://localhost/CODIGO/index.php).
+
+4. **Executando o Aplicativo com `php.exe`:**
+   - Alternativamente, você pode iniciar o servidor diretamente no diretório `./CODIGO` com o comando abaixo:
+   ```bash
+   php -S localhost:8080
+   ```
+   - Em seguida, acesse o formulário no navegador através do endereço: [http://localhost:8080](http://localhost:8080).
 
 ## NÃO SABE?
 - Entendemos que para manipular arquivos em `HTML`, `CSS` e outras linguagens relacionadas, é necessário possuir conhecimento nessas áreas. Para auxiliar nesse aprendizado, oferecemos cursos gratuitos disponíveis:
